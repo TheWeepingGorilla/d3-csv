@@ -1,0 +1,1 @@
+This is a simple example of using d3.js to generate a html table and a bar chart from a csv file.
